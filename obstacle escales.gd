@@ -9,3 +9,4 @@ func _process(delta):
 func _on_obstacle_escales_body_entered(body):
 	if(body.is_in_group("personatge")):
 		get_tree().reload_current_scene()
+
