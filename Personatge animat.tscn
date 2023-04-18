@@ -2,9 +2,7 @@
 
 [ext_resource path="res://La creatura aka dcasbla69/dialogIcon_016-hd.png" type="Texture" id=1]
 
-[node name="Personatge animat" type="Node2D"]
+[node name="Personatge aka dcasbla69" type="KinematicBody2D"]
 
-[node name="Dcasbla69-labestia" type="KinematicBody2D" parent="."]
-
-[node name="Sprite" type="Sprite" parent="Dcasbla69-labestia"]
+[node name="Sprite" type="Sprite" parent="."]
 texture = ExtResource( 1 )
