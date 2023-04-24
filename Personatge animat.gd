@@ -1,11 +1,8 @@
 extends KinematicBody2D
 
 export var velocitat = 400
-<<<<<<< HEAD
 export var gravetat = 500
-=======
-export var gravetat = 450
->>>>>>> b3e189a44ae05a6df693a0c08555ef3fee0e6a87
+
 export var forcaSalt = 275
 
 var velocitatX = Vector2(velocitat, 0)
