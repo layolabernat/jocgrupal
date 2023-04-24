@@ -1,7 +1,8 @@
 xtends KinematicBody2D
 
 export var velocitat = 400
-export var gravetat = 450
+export var gravetat = 500
+
 export var forcaSalt = 275
 
 var velocitatX = Vector2(velocitat, 0)
