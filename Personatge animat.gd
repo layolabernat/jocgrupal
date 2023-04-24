@@ -1,4 +1,4 @@
-extends KinematicBody2D
+xtends KinematicBody2D
 
 export var velocitat = 400
 export var gravetat = 450
