@@ -230,6 +230,12 @@ scale = Vector2( 0.1, 0.12 )
 position = Vector2( 4402, 340 )
 scale = Vector2( 0.1, 0.1 )
 
+[node name="Obstacles27" parent="." instance=ExtResource( 3 )]
+visible = false
+position = Vector2( 4385, 383 )
+rotation = -0.523599
+scale = Vector2( 0.1, 0.1 )
+
 [node name="Obstacles2" parent="." instance=ExtResource( 3 )]
 position = Vector2( 1646, 519 )
 scale = Vector2( 0.1, 0.1 )
