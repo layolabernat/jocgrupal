@@ -1,6 +1,6 @@
 extends KinematicBody2D
 
-export var velocitat = 400
+export var velocitat = 375
 export var gravetat = 550
 
 export var forcaSalt = 275
