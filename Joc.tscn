@@ -1,7 +1,8 @@
-[gd_scene load_steps=11 format=2]
+[gd_scene load_steps=12 format=2]
 
 [ext_resource path="res://Tilemap/sand.png" type="Texture" id=1]
 [ext_resource path="res://Personatge animat.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Obstacles.tscn" type="PackedScene" id=3]
 [ext_resource path="res://obstacle escales.gd" type="Script" id=4]
 
 [sub_resource type="ConvexPolygonShape2D" id=2]
@@ -129,11 +130,15 @@ position = Vector2( 1, 0 )
 shape = SubResource( 7 )
 
 [node name="obstacle escales" type="Area2D" parent="."]
-position = Vector2( 1625, 462 )
+position = Vector2( -802, -165 )
 script = ExtResource( 4 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="obstacle escales"]
-position = Vector2( -0.5, 0.5 )
+position = Vector2( -2216, -627 )
 shape = SubResource( 6 )
+
+[node name="Obstacles" parent="." instance=ExtResource( 3 )]
+position = Vector2( 1460, 519 )
+scale = Vector2( 0.1, 0.1 )
 
 [connection signal="body_entered" from="obstacle escales" to="obstacle escales" method="_on_obstacle_escales_body_entered"]
