@@ -109,10 +109,10 @@ position = Vector2( 0, 271 )
 tile_set = SubResource( 1 )
 cell_size = Vector2( 18, 18 )
 format = 1
-tile_data = PoolIntArray( 327925, 3, 0, 393444, 3, 0, 458959, 3, 0, 524477, 3, 0, 590107, 3, 0, 590143, 3, 0, 590187, 3, 0, 655532, 3, 0, 786587, 3, 0, 786697, 3, 0, 786715, 3, 0, 786737, 3, 0, 786751, 3, 0, 786778, 3, 0, 983040, 3, 0, 983043, 3, 0, 983046, 3, 0, 983049, 3, 0, 983052, 3, 0, 983055, 3, 0, 983058, 3, 0, 983061, 3, 0, 983064, 3, 0, 983067, 3, 0, 983070, 3, 0, 983073, 3, 0, 983076, 3, 0, 983079, 3, 0, 983082, 3, 0, 983085, 3, 0, 983088, 3, 0, 983091, 3, 0, 983094, 3, 0, 983097, 3, 0, 983100, 3, 0, 983103, 3, 0, 983106, 3, 0, 983109, 3, 0, 983112, 3, 0, 983115, 3, 0, 983118, 3, 0, 983121, 3, 0, 983124, 3, 0, 983127, 3, 0, 983130, 3, 0, 983133, 3, 0, 983136, 3, 0, 983139, 3, 0, 983142, 3, 0, 983145, 3, 0, 983148, 3, 0, 983151, 3, 0, 983154, 3, 0, 983157, 3, 0, 983160, 3, 0, 983163, 3, 0, 983166, 3, 0, 983169, 3, 0, 983172, 3, 0, 983175, 3, 0, 983178, 3, 0, 983181, 3, 0, 983184, 3, 0, 983187, 3, 0, 983190, 3, 0, 983193, 3, 0, 983196, 3, 0, 983199, 3, 0, 983202, 3, 0, 983205, 3, 0, 983208, 3, 0, 983211, 3, 0, 983214, 3, 0, 983217, 3, 0, 983220, 3, 0, 983223, 3, 0, 983226, 3, 0, 983229, 3, 0, 983232, 3, 0, 983235, 3, 0, 983238, 3, 0, 983241, 3, 0, 983244, 3, 0, 983247, 3, 0, 983250, 3, 0, 983253, 3, 0, 983256, 3, 0, 983259, 3, 0, 983262, 3, 0, 983265, 3, 0, 983268, 3, 0, 983271, 3, 0, 983274, 3, 0, 983277, 3, 0, 983280, 3, 0, 983283, 3, 0, 983286, 3, 0, 983289, 3, 0, 983292, 3, 0, 983295, 3, 0, 983298, 3, 0, 983301, 3, 0, 983304, 3, 0, 983307, 3, 0, 983310, 3, 0, 983313, 3, 0, 983316, 3, 0, 983319, 3, 0, 983322, 3, 0, 983325, 3, 0, 983328, 3, 0, 983331, 3, 0, 983334, 3, 0, 983337, 3, 0, 983340, 3, 0, 983343, 3, 0, 983346, 3, 0, 983349, 3, 0, 983352, 3, 0, 983355, 3, 0, 983358, 3, 0, 983361, 3, 0, 983364, 3, 0, 983367, 3, 0, 983370, 3, 0, 983373, 3, 0, 983376, 3, 0, 983379, 3, 0, 983382, 3, 0, 983385, 3, 0, 983388, 3, 0, 983391, 3, 0, 983394, 3, 0, 983397, 3, 0, 983400, 3, 0, 983403, 3, 0, 983406, 3, 0, 983409, 3, 0, 983412, 3, 0, 983415, 3, 0, 983418, 3, 0, 983421, 3, 0, 983424, 3, 0, 983427, 3, 0, 983430, 3, 0, 983433, 3, 0, 983436, 3, 0, 983439, 3, 0, 983442, 3, 0, 983445, 3, 0, 983448, 3, 0, 983451, 3, 0, 983454, 3, 0, 983457, 3, 0, 983460, 3, 0, 983463, 3, 0, 983466, 3, 0, 983469, 3, 0, 983472, 3, 0, 983475, 3, 0, 983478, 3, 0, 983481, 3, 0, 983484, 3, 0, 983487, 3, 0, 983490, 3, 0, 983493, 3, 0, 983496, 3, 0, 983499, 3, 0, 983502, 3, 0, 983505, 3, 0, 983508, 3, 0, 983511, 3, 0, 983514, 3, 0, 983517, 3, 0, 983520, 3, 0, 983523, 3, 0, 983526, 3, 0, 983529, 3, 0, 983532, 3, 0, 983535, 3, 0, 983538, 3, 0, 983541, 3, 0, 983544, 3, 0, 983547, 3, 0, 983550, 3, 0, 983553, 3, 0, 983556, 3, 0, 983559, 3, 0, 983562, 3, 0, 983565, 3, 0, 983568, 3, 0, 983571, 3, 0, 983574, 3, 0, 983577, 3, 0, 983580, 3, 0, 983583, 3, 0, 983586, 3, 0, 983589, 3, 0, 983592, 3, 0, 983595, 3, 0, 983598, 3, 0, 983601, 3, 0, 983604, 3, 0, 983607, 3, 0, 983610, 3, 0, 983613, 3, 0, 983616, 3, 0, 983619, 3, 0, 983622, 3, 0, 983625, 3, 0, 983628, 3, 0, 983631, 3, 0, 983634, 3, 0, 983637, 3, 0, 983640, 3, 0, 983643, 3, 0, 983646, 3, 0, 983649, 3, 0, 983652, 3, 0, 983655, 3, 0, 983658, 3, 0, 983661, 3, 0 )
+tile_data = PoolIntArray( -982600, 3, 0, -786009, 3, 0, -589417, 3, 0, -589370, 3, 0, -392825, 3, 0, -392776, 3, 0, -392749, 3, 0, -196231, 3, 0, -196185, 3, 0, -196129, 3, 0, 407, 3, 0, 492, 3, 0, 65898, 3, 0, 196999, 3, 0, 262648, 3, 0, 327925, 3, 0, 393444, 3, 0, 393593, 3, 0, 458959, 3, 0, 524477, 3, 0, 524804, 3, 0, 524819, 3, 0, 524822, 3, 0, 524825, 3, 0, 524828, 3, 0, 524831, 3, 0, 524834, 3, 0, 524837, 3, 0, 524840, 3, 0, 590107, 3, 0, 590143, 3, 0, 590186, 3, 0, 655532, 3, 0, 786587, 3, 0, 786697, 3, 0, 786715, 3, 0, 786737, 3, 0, 786751, 3, 0, 786778, 3, 0, 983040, 3, 0, 983043, 3, 0, 983046, 3, 0, 983049, 3, 0, 983052, 3, 0, 983055, 3, 0, 983058, 3, 0, 983061, 3, 0, 983064, 3, 0, 983067, 3, 0, 983070, 3, 0, 983073, 3, 0, 983076, 3, 0, 983079, 3, 0, 983082, 3, 0, 983085, 3, 0, 983088, 3, 0, 983091, 3, 0, 983094, 3, 0, 983097, 3, 0, 983100, 3, 0, 983103, 3, 0, 983106, 3, 0, 983109, 3, 0, 983112, 3, 0, 983115, 3, 0, 983118, 3, 0, 983121, 3, 0, 983124, 3, 0, 983127, 3, 0, 983130, 3, 0, 983133, 3, 0, 983136, 3, 0, 983139, 3, 0, 983142, 3, 0, 983145, 3, 0, 983148, 3, 0, 983151, 3, 0, 983154, 3, 0, 983157, 3, 0, 983160, 3, 0, 983163, 3, 0, 983166, 3, 0, 983169, 3, 0, 983172, 3, 0, 983175, 3, 0, 983178, 3, 0, 983181, 3, 0, 983184, 3, 0, 983187, 3, 0, 983190, 3, 0, 983193, 3, 0, 983196, 3, 0, 983199, 3, 0, 983202, 3, 0, 983205, 3, 0, 983208, 3, 0, 983211, 3, 0, 983214, 3, 0, 983217, 3, 0, 983220, 3, 0, 983223, 3, 0, 983226, 3, 0, 983229, 3, 0, 983232, 3, 0, 983235, 3, 0, 983238, 3, 0, 983241, 3, 0, 983244, 3, 0, 983247, 3, 0, 983250, 3, 0, 983253, 3, 0, 983256, 3, 0, 983259, 3, 0, 983262, 3, 0, 983265, 3, 0, 983268, 3, 0, 983271, 3, 0, 983274, 3, 0, 983277, 3, 0, 983280, 3, 0, 983283, 3, 0, 983286, 3, 0, 983289, 3, 0, 983292, 3, 0, 983295, 3, 0, 983298, 3, 0, 983301, 3, 0, 983304, 3, 0, 983307, 3, 0, 983310, 3, 0, 983313, 3, 0, 983316, 3, 0, 983319, 3, 0, 983322, 3, 0, 983325, 3, 0, 983328, 3, 0, 983331, 3, 0, 983334, 3, 0, 983337, 3, 0, 983340, 3, 0, 983343, 3, 0, 983346, 3, 0, 983349, 3, 0, 983352, 3, 0, 983355, 3, 0, 983358, 3, 0, 983361, 3, 0, 983364, 3, 0, 983367, 3, 0, 983370, 3, 0, 983373, 3, 0, 983376, 3, 0, 983379, 3, 0, 983382, 3, 0, 983385, 3, 0, 983388, 3, 0, 983391, 3, 0, 983394, 3, 0, 983397, 3, 0, 983400, 3, 0, 983403, 3, 0, 983406, 3, 0, 983409, 3, 0, 983412, 3, 0, 983415, 3, 0, 983418, 3, 0, 983421, 3, 0, 983424, 3, 0, 983427, 3, 0, 983430, 3, 0, 983433, 3, 0, 983436, 3, 0, 983439, 3, 0, 983442, 3, 0, 983445, 3, 0, 983448, 3, 0, 983451, 3, 0, 983454, 3, 0, 983457, 3, 0, 983460, 3, 0, 983463, 3, 0, 983466, 3, 0, 983469, 3, 0, 983472, 3, 0, 983475, 3, 0, 983478, 3, 0, 983481, 3, 0, 983484, 3, 0, 983487, 3, 0, 983490, 3, 0, 983493, 3, 0, 983496, 3, 0, 983499, 3, 0, 983502, 3, 0, 983505, 3, 0, 983508, 3, 0, 983511, 3, 0, 983514, 3, 0, 983517, 3, 0, 983520, 3, 0, 983523, 3, 0, 983526, 3, 0, 983529, 3, 0, 983532, 3, 0, 983535, 3, 0, 983538, 3, 0, 983541, 3, 0, 983544, 3, 0, 983547, 3, 0, 983550, 3, 0, 983553, 3, 0, 983556, 3, 0, 983559, 3, 0, 983562, 3, 0, 983565, 3, 0, 983568, 3, 0, 983571, 3, 0, 983574, 3, 0, 983577, 3, 0, 983580, 3, 0, 983583, 3, 0, 983586, 3, 0, 983589, 3, 0, 983592, 3, 0, 983595, 3, 0, 983598, 3, 0, 983601, 3, 0, 983604, 3, 0, 983607, 3, 0, 983610, 3, 0, 983613, 3, 0, 983616, 3, 0, 983619, 3, 0, 983622, 3, 0, 983625, 3, 0, 983628, 3, 0, 983631, 3, 0, 983634, 3, 0, 983637, 3, 0, 983640, 3, 0, 983643, 3, 0, 983646, 3, 0, 983649, 3, 0, 983652, 3, 0, 983655, 3, 0, 983658, 3, 0, 983661, 3, 0 )
 
 [node name="personatge" parent="." instance=ExtResource( 2 )]
-position = Vector2( 2252, 524 )
+position = Vector2( 8170, 92 )
 
 [node name="Camera2D" type="Camera2D" parent="personatge"]
 position = Vector2( 1, 0 )
@@ -152,13 +152,13 @@ scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles31" parent="." instance=ExtResource( 3 )]
 visible = false
-position = Vector2( 3109, 472 )
+position = Vector2( 3414, 440 )
 rotation = -0.488692
 scale = Vector2( 0.1, 0.11 )
 
 [node name="Obstacles24" parent="." instance=ExtResource( 3 )]
 visible = false
-position = Vector2( 3108, 473 )
+position = Vector2( 3107, 474 )
 rotation = -0.546288
 scale = Vector2( 0.1, 0.1 )
 
@@ -237,6 +237,40 @@ scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles57" parent="." instance=ExtResource( 3 )]
 position = Vector2( 6197, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles58" parent="." instance=ExtResource( 3 )]
+position = Vector2( 6197, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles59" parent="." instance=ExtResource( 3 )]
+position = Vector2( 6815, 295 )
+rotation = 3.14159
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles73" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7949, 78 )
+rotation = 3.14159
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles74" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7642, 132 )
+rotation = 3.14159
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles75" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7354, 186 )
+rotation = 3.14159
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles76" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7066, 241 )
+rotation = 3.14159
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles72" parent="." instance=ExtResource( 3 )]
+position = Vector2( 6544, 366 )
+rotation = 3.14159
 scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles56" parent="." instance=ExtResource( 3 )]
@@ -331,6 +365,226 @@ scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles15" parent="." instance=ExtResource( 3 )]
 position = Vector2( 3542, 521 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles22" parent="." instance=ExtResource( 3 )]
+position = Vector2( 6825, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles23" parent="." instance=ExtResource( 3 )]
+position = Vector2( 6771, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles25" parent="." instance=ExtResource( 3 )]
+position = Vector2( 6616, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles43" parent="." instance=ExtResource( 3 )]
+position = Vector2( 6666, 521 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles60" parent="." instance=ExtResource( 3 )]
+position = Vector2( 6719, 521 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles61" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7199, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles62" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7414, 521 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles63" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7358, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles64" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7305, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles65" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7252, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles66" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7145, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles67" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7094, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles68" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7039, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles69" parent="." instance=ExtResource( 3 )]
+position = Vector2( 6983, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles70" parent="." instance=ExtResource( 3 )]
+position = Vector2( 6931, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles71" parent="." instance=ExtResource( 3 )]
+position = Vector2( 6879, 521 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles77" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7678, 518 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles78" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7624, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles79" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7469, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles80" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7519, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles81" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7572, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles82" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8052, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles83" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8267, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles84" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8211, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles85" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8158, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles86" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8105, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles87" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7998, 518 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles88" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7947, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles89" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7892, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles90" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7836, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles91" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7784, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles92" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7732, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles93" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8532, 518 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles94" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8478, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles95" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8323, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles96" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8373, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles97" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8426, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles98" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8906, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles99" parent="." instance=ExtResource( 3 )]
+position = Vector2( 9121, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles100" parent="." instance=ExtResource( 3 )]
+position = Vector2( 9065, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles101" parent="." instance=ExtResource( 3 )]
+position = Vector2( 9012, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles102" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8959, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles103" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8852, 518 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles109" parent="." instance=ExtResource( 3 )]
+position = Vector2( 9526, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles110" parent="." instance=ExtResource( 3 )]
+position = Vector2( 9741, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles115" parent="." instance=ExtResource( 3 )]
+position = Vector2( 9964, 394 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles111" parent="." instance=ExtResource( 3 )]
+position = Vector2( 9685, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles112" parent="." instance=ExtResource( 3 )]
+position = Vector2( 9632, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles113" parent="." instance=ExtResource( 3 )]
+position = Vector2( 9579, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles114" parent="." instance=ExtResource( 3 )]
+position = Vector2( 9472, 518 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles104" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8801, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles105" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8746, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles106" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8690, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles107" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8638, 519 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles108" parent="." instance=ExtResource( 3 )]
+position = Vector2( 8586, 520 )
 scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles17" parent="." instance=ExtResource( 3 )]
