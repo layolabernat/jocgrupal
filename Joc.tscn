@@ -105,7 +105,6 @@ points = PoolVector2Array( 0, 0, 56, 0, 56, 56, 0, 56 )
 [node name="Joc" type="Node2D"]
 
 [node name="TileMap" type="TileMap" parent="."]
-visible = false
 position = Vector2( 0, 271 )
 tile_set = SubResource( 1 )
 cell_size = Vector2( 18, 18 )
