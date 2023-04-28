@@ -16,13 +16,14 @@ anchor_top = 0.5
 anchor_right = 0.5
 anchor_bottom = 0.5
 margin_left = -174.0
-margin_top = -223.0
+margin_top = -10.5
 margin_right = 174.0
-margin_bottom = 223.0
+margin_bottom = 10.5
 
 [node name="Button" type="Button" parent="VBoxContainer"]
 margin_right = 348.0
 margin_bottom = 20.0
 custom_colors/font_color_hover = Color( 1, 0, 0, 1 )
+custom_colors/font_color_pressed = Color( 0.172549, 1, 0, 1 )
 action_mode = 0
 text = "PLAY"
