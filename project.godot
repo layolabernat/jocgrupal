@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="bernaticompanyia"
-run/main_scene="res://MENÚ.tscn"
+run/main_scene="res://Joc.tscn"
 config/icon="res://icon.png"
 
 [gui]
