@@ -19,16 +19,22 @@ func _physics_process(delta):
 	
 	
 	if estaAterra and salt:
-		velocitatY.y = -forcaSalt
-		estaAterra = false
+		salta()
 	
 	
 	velocitatY.y += gravetat * delta
 	velocitatY = move_and_slide(velocitatY, Vector2.UP)
 	if is_on_floor():
 		estaAterra = true
+
 func _on_Area2D_body_entered(body):
 	if body.name == "personatge":
 		# Reinicia el joc
 		get_tree().reload_current_scene()
 
+func salta():
+	velocitatY.y = -forcaSalt
+	estaAterra = false
+	var rotacio_actual = $Sprite.rotation_degrees
+	$Tween.interpolate_property($Sprite, "rotation_degrees", rotacio_actual, rotacio_actual + 90, 0.5,Tween.TRANS_CUBIC)
+	$Tween.start()
