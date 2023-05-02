@@ -1,8 +1,9 @@
-[gd_scene load_steps=9 format=2]
+[gd_scene load_steps=10 format=2]
 
 [ext_resource path="res://Tilemap/sand.png" type="Texture" id=1]
 [ext_resource path="res://Personatge animat.tscn" type="PackedScene" id=2]
 [ext_resource path="res://Obstacles.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Joc.gd" type="Script" id=4]
 
 [sub_resource type="ConvexPolygonShape2D" id=2]
 points = PoolVector2Array( 0, 0, 18, 0, 18, 18, 0, 18 )
@@ -103,6 +104,7 @@ points = PoolVector2Array( 0, 0, 56, 0, 56, 56, 0, 56 )
 3/z_index = 0
 
 [node name="Joc" type="Node2D"]
+script = ExtResource( 4 )
 
 [node name="TileMap" type="TileMap" parent="."]
 position = Vector2( 0, 271 )
