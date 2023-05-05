@@ -15,8 +15,12 @@ func _physics_process(delta):
 	
 
 	velocitatX = Vector2(velocitat, 0) 
-	move_and_slide(velocitatX, Vector2.UP) 
+	move_and_slide(velocitatX, Vector2.UP)
 	
+	if is_on_floor():
+		estaAterra = true
+	else:
+		estaAterra = false
 	
 	if estaAterra and salt:
 		salta()
@@ -24,13 +28,13 @@ func _physics_process(delta):
 	
 	velocitatY.y += gravetat * delta
 	velocitatY = move_and_slide(velocitatY, Vector2.UP)
-	if is_on_floor():
-		estaAterra = true
+
 
 func _on_Area2D_body_entered(body):
 	if body.name == "personatge":
 		# Reinicia el joc
 		get_tree().reload_current_scene()
+		
 
 func salta():
 	velocitatY.y = -forcaSalt
