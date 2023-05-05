@@ -14,6 +14,7 @@ func _process(delta):
 func _on_Area2D_body_entered(body):
 	if(body.is_in_group("personatge")):
 		get_tree().reload_current_scene()
+		
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
