@@ -124,31 +124,13 @@ scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles26" parent="." instance=ExtResource( 3 )]
 visible = false
-position = Vector2( 3108, 473 )
-rotation = -0.546288
+position = Vector2( 3109, 475 )
+rotation = -0.453786
 scale = Vector2( 0.1, 0.11 )
-
-[node name="Obstacles23" parent="." instance=ExtResource( 3 )]
-visible = false
-position = Vector2( 1589, 537 )
-rotation = 3.14159
-scale = Vector2( 0.07, 0.1 )
-
-[node name="Obstacles25" parent="." instance=ExtResource( 3 )]
-visible = false
-position = Vector2( 1589, 537 )
-rotation = 3.14159
-scale = Vector2( 0.07, 0.1 )
 
 [node name="Obstacles3" parent="." instance=ExtResource( 3 )]
 position = Vector2( 1875, 519 )
 scale = Vector2( 0.1, 0.1 )
-
-[node name="Obstacles22" parent="." instance=ExtResource( 3 )]
-visible = false
-position = Vector2( 1875, 535 )
-rotation = 3.14159
-scale = Vector2( 0.07, 0.1 )
 
 [node name="Obstacles4" parent="." instance=ExtResource( 3 )]
 position = Vector2( 3488, 519 )
@@ -166,18 +148,6 @@ scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles6" parent="." instance=ExtResource( 3 )]
 position = Vector2( 3279, 520 )
-scale = Vector2( 0.1, 0.1 )
-
-[node name="Obstacles31" parent="." instance=ExtResource( 3 )]
-visible = false
-position = Vector2( 3109, 472 )
-rotation = -0.488692
-scale = Vector2( 0.1, 0.11 )
-
-[node name="Obstacles24" parent="." instance=ExtResource( 3 )]
-visible = false
-position = Vector2( 3108, 473 )
-rotation = -0.546288
 scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles7" parent="." instance=ExtResource( 3 )]
@@ -224,7 +194,7 @@ scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles48" parent="." instance=ExtResource( 3 )]
 visible = false
-position = Vector2( 5088, 458 )
+position = Vector2( 5088, 457 )
 rotation = -0.488692
 scale = Vector2( 0.1, 0.11 )
 
@@ -296,6 +266,28 @@ scale = Vector2( 0.1, 0.1 )
 position = Vector2( 7122, 520 )
 scale = Vector2( 0.1, 0.1 )
 
+[node name="Obstacles75" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7122, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles76" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7122, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles77" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7122, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles78" parent="." instance=ExtResource( 3 )]
+position = Vector2( 7122, 520 )
+scale = Vector2( 0.1, 0.1 )
+
+[node name="Obstacles79" parent="." instance=ExtResource( 3 )]
+visible = false
+position = Vector2( 7462, 510 )
+rotation = -0.523599
+scale = Vector2( 0.1, 0.1 )
+
 [node name="Obstacles72" parent="." instance=ExtResource( 3 )]
 position = Vector2( 7068, 520 )
 scale = Vector2( 0.1, 0.1 )
@@ -326,7 +318,7 @@ scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles49" parent="." instance=ExtResource( 3 )]
 visible = false
-position = Vector2( 5755, 457 )
+position = Vector2( 5504, 511 )
 rotation = -0.471239
 scale = Vector2( 0.1, 0.11 )
 
@@ -408,23 +400,11 @@ scale = Vector2( 0.1, 0.12 )
 position = Vector2( 4438, 340 )
 scale = Vector2( 0.1, 0.1 )
 
-[node name="Obstacles59" parent="." instance=ExtResource( 3 )]
-visible = false
-position = Vector2( 5089, 455 )
-rotation = -0.488692
-scale = Vector2( 0.1, 0.11 )
-
 [node name="Obstacles61" parent="." instance=ExtResource( 3 )]
 visible = false
-position = Vector2( 5089, 509 )
+position = Vector2( 5088, 509 )
 rotation = -0.488692
 scale = Vector2( 0.1, 0.11 )
-
-[node name="Obstacles60" parent="." instance=ExtResource( 3 )]
-visible = false
-position = Vector2( 4782, 509 )
-rotation = -0.488692
-scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles27" parent="." instance=ExtResource( 3 )]
 visible = false
