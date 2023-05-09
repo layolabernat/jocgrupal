@@ -42,3 +42,6 @@ func salta():
 	var rotacio_actual = $Sprite.rotation_degrees
 	$Tween.interpolate_property($Sprite, "rotation_degrees", rotacio_actual, rotacio_actual + 90, 0.5,Tween.TRANS_CUBIC)
 	$Tween.start()
+
+
+

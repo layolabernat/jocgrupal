@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bigFont-hd.png-2aa5a3db7a7de49e09867f0c393277ba.stex"
+path="res://.import/QUIT.png-56d8e5cef7d136ea44ca350f6a08d88c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Fonts/Normal/bigFont-hd.png"
-dest_files=[ "res://.import/bigFont-hd.png-2aa5a3db7a7de49e09867f0c393277ba.stex" ]
+source_file="res://QUIT.png"
+dest_files=[ "res://.import/QUIT.png-56d8e5cef7d136ea44ca350f6a08d88c.stex" ]
 
 [params]
 
