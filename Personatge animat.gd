@@ -13,6 +13,7 @@ func _physics_process(delta):
 	
 	var salt = Input.is_action_pressed("ves_amunt")
 	
+
 	velocitatX = Vector2(velocitat, 0) 
 	move_and_slide(velocitatX, Vector2.UP)
 	
@@ -41,4 +42,6 @@ func salta():
 	var rotacio_actual = $Sprite.rotation_degrees
 	$Tween.interpolate_property($Sprite, "rotation_degrees", rotacio_actual, rotacio_actual + 90, 0.5,Tween.TRANS_CUBIC)
 	$Tween.start()
+
+
 
