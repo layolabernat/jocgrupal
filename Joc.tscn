@@ -1,9 +1,10 @@
-[gd_scene load_steps=10 format=2]
+[gd_scene load_steps=11 format=2]
 
 [ext_resource path="res://Tilemap/sand.png" type="Texture" id=1]
 [ext_resource path="res://Personatge animat.tscn" type="PackedScene" id=2]
 [ext_resource path="res://Obstacles.tscn" type="PackedScene" id=3]
 [ext_resource path="res://Joc.gd" type="Script" id=4]
+[ext_resource path="res://86yagye25g841.png" type="Texture" id=5]
 
 [sub_resource type="ConvexPolygonShape2D" id=2]
 points = PoolVector2Array( 0, 0, 18, 0, 18, 18, 0, 18 )
@@ -126,7 +127,7 @@ scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles26" parent="." instance=ExtResource( 3 )]
 visible = false
-position = Vector2( 3109, 475 )
+position = Vector2( 3103, 476 )
 rotation = -0.453786
 scale = Vector2( 0.1, 0.11 )
 
@@ -144,7 +145,7 @@ scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles30" parent="." instance=ExtResource( 3 )]
 visible = false
-position = Vector2( 3414, 437 )
+position = Vector2( 3410, 437 )
 rotation = -0.546288
 scale = Vector2( 0.1, 0.1 )
 
@@ -441,9 +442,9 @@ scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles17" parent="." instance=ExtResource( 3 )]
 visible = false
-position = Vector2( 2800, 512 )
-rotation = -0.436332
-scale = Vector2( 0.1, 0.12 )
+position = Vector2( 2797, 510 )
+rotation = -0.523599
+scale = Vector2( 0.1, 0.1 )
 
 [node name="Obstacles16" parent="." instance=ExtResource( 3 )]
 position = Vector2( 4438, 340 )
@@ -464,3 +465,27 @@ scale = Vector2( 0.1, 0.1 )
 [node name="Obstacles2" parent="." instance=ExtResource( 3 )]
 position = Vector2( 1646, 519 )
 scale = Vector2( 0.1, 0.1 )
+
+[node name="86Yagye25G841" type="Sprite" parent="."]
+show_behind_parent = true
+position = Vector2( 1298, 512 )
+scale = Vector2( 0.974185, 1.09595 )
+texture = ExtResource( 5 )
+
+[node name="86Yagye25G842" type="Sprite" parent="."]
+show_behind_parent = true
+position = Vector2( 9189, 512 )
+scale = Vector2( 0.974185, 1.09595 )
+texture = ExtResource( 5 )
+
+[node name="86Yagye25G844" type="Sprite" parent="."]
+show_behind_parent = true
+position = Vector2( 13091, 512 )
+scale = Vector2( 0.974185, 1.09595 )
+texture = ExtResource( 5 )
+
+[node name="86Yagye25G843" type="Sprite" parent="."]
+show_behind_parent = true
+position = Vector2( 5243, 516 )
+scale = Vector2( 0.974185, 1.09595 )
+texture = ExtResource( 5 )
