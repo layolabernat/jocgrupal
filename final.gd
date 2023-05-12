@@ -16,6 +16,12 @@ func _ready():
 #	pass
 
 
+
+	
+
+	
+
+
 func _on_Area2D_body_entered(body):
-	var p = get_node("/root/Joc/Personatge")
-	p.position = Vector2(36,522)
+	if body.name == "personatge":
+		get_tree().change_scene("res://MENÚ.tscn")
