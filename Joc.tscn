@@ -516,12 +516,30 @@ scale = Vector2( 0.1, 0.106 )
 position = Vector2( 14804, 193 )
 scale = Vector2( 0.1, 0.106 )
 
+[node name="Obstacles206" parent="." instance=ExtResource( 3 )]
+visible = false
+position = Vector2( 14677, 243 )
+rotation = -0.523599
+scale = Vector2( 0.1, 0.106 )
+
 [node name="Obstacles150" parent="." instance=ExtResource( 3 )]
-position = Vector2( 15038, 138 )
+position = Vector2( 15036, 142 )
+scale = Vector2( 0.1, 0.106 )
+
+[node name="Obstacles207" parent="." instance=ExtResource( 3 )]
+visible = false
+position = Vector2( 14892, 187 )
+rotation = -0.523599
 scale = Vector2( 0.1, 0.106 )
 
 [node name="Obstacles165" parent="." instance=ExtResource( 3 )]
 position = Vector2( 15320, 87 )
+scale = Vector2( 0.1, 0.106 )
+
+[node name="Obstacles208" parent="." instance=ExtResource( 3 )]
+visible = false
+position = Vector2( 15146, 134 )
+rotation = -0.523599
 scale = Vector2( 0.1, 0.106 )
 
 [node name="Obstacles141" parent="." instance=ExtResource( 3 )]
@@ -986,7 +1004,7 @@ texture = ExtResource( 5 )
 
 [node name="86Yagye25G843" type="Sprite" parent="."]
 show_behind_parent = true
-position = Vector2( 17000, 0 )
+position = Vector2( 17032, 0 )
 scale = Vector2( 0.974185, 1.09595 )
 texture = ExtResource( 5 )
 
