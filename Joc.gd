@@ -1,5 +1,5 @@
 extends Node2D
-var Sortir = Input.is_action_just_pressed("surt")
+
 
 # Declare member variables here. Examples:
 # var a = 2
